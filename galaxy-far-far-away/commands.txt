@@ -1,0 +1,3 @@
+cd galaxy-far-far-away
+touch commands.txt
+ls
